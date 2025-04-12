@@ -1,0 +1,13 @@
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:45:6:GPIO_Init	32	static
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:85:6:GPIO_StructInit	16	static
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:108:6:GPIO_PinLockConfig	24	static
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:151:9:GPIO_ReadInputDataBit	24	static
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:173:10:GPIO_ReadInputData	16	static
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:188:9:GPIO_ReadOutputDataBit	24	static
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:210:10:GPIO_ReadOutputData	16	static
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:227:6:GPIO_SetBits	16	static
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:244:6:GPIO_ResetBits	16	static
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:262:6:GPIO_WriteBit	16	static
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:282:6:GPIO_Write	16	static
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:295:6:GPIO_ToggleBits	16	static
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:375:6:GPIO_PinAFConfig	24	static

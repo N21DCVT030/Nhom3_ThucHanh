@@ -1,0 +1,13 @@
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:45:6:GPIO_Init	5
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:85:6:GPIO_StructInit	1
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:108:6:GPIO_PinLockConfig	1
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:151:9:GPIO_ReadInputDataBit	2
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:173:10:GPIO_ReadInputData	1
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:188:9:GPIO_ReadOutputDataBit	2
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:210:10:GPIO_ReadOutputData	1
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:227:6:GPIO_SetBits	1
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:244:6:GPIO_ResetBits	1
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:262:6:GPIO_WriteBit	2
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:282:6:GPIO_Write	1
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:295:6:GPIO_ToggleBits	1
+C:/Users/Admin/Downloads/SDK_1.0.3_NUCLEO-F401RE/SDK_1.0.3_NUCLEO-F401RE/shared/Drivers/STM32F401RE_StdPeriph_Driver/src/gpio.c:375:6:GPIO_PinAFConfig	1
