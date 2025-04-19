@@ -1,0 +1,3 @@
+../Src/my_gpio.c:3:6:My_GPIO_Init	32	static
+../Src/my_gpio.c:32:9:My_GPIO_ReadPin	16	static
+../Src/my_gpio.c:36:6:My_GPIO_WritePin	24	static
